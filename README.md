@@ -1,0 +1,2 @@
+OnlineRetail dataset contains transactions between 01/12/2010 and 09/12/2011 for a UK_based and registerd non-store online retail.The company mainly sells unique all-occasion gifts.many customers of the company are wholesalers.
+I visualised average no.of items a customer buy and top and bottom countries which has high and low sales respectively.I visualised which month has high no.of sales and so on.
